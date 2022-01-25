@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: LightGray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+<div>
+
+
+<h2 align="center" style="color:Indigo;">WELCOME TO MY PAGE!</h1>
+<h3 align="center" style="background-color:Violet;">My name is Krasovskaya Elena, I live in Kyiv and I am found of animals, sport, travels, books and ... </h2>
+<h3 align="center" style="color:Indigo;"><i>romantic comedies!</i></h3>
+
+</body>
+</html>
+
+<html>
+ <body>
+  <p align="center">
+    <img src="PHOTO.jpg" alt="Me" width="180" height="240">
+    
+    <video width="270" height="240" autoplay muted>
+    <source src="movie.mp4" type="video/mp4">
+    <source src="movie.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+   </video>
+
+    <img src="dog.jfif" alt="Animal" width="220" height="240">
+    
+ </p>
+ </body>
+</html>
+
+<html>
+<body>
+<style>
+div {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+<div>table, th, td {
+  border:1px solid black;
+}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+
+
+<table style="width:100%">
+  <tr>
+    <th style="color:Indigo;">Вirthday</th>
+    <th style="color:Indigo;">Motto in life</th>
+    <th style="color:Indigo;">Favorite city</th>
+    <th style="color:Indigo;">E-mail</th>
+    <th style="color:Indigo;">Social networks</th>
+
+  </tr>
+  <tr>
+    <td align="center">August 27</td>
+    <td align="center">A journey of a thousand miles begins with a single step</td>
+    <td align="center">Budapest</td>
+    <td align="center">krasov888@ukr.net</td>
+    <td align="center"><a href="https://www.facebook.com/profile.php?id=100002199474512">My Facebook</a> <a href="https://www.instagram.com/selena_krasovskaya">My Instagram</a></td>
+  
+  </tr>
+</div>
+</table>
+</body>
+</html>
+
+<html>
+<body>
+<h3 align="center" style="background-color:Violet;">10 facts about me:</h2>
+
+<ul>
+  <li>Love to play in "Secret Santa";</li>
+  <li>The superpower I want to have is to eat and not get fat! But, alas...;</li> 
+  <li>Like to ride a bike all night with friends and meet the sunrises;</li>
+  <li>Often go camping with a tent;</li>
+  <li>Love to be a toastmaster at parties;</li>
+  <li>Never smoked;</li>
+  <li>Don't like oysters;</li>
+  <li>Don't like mess;</li>
+  <li>Don't like to be late;</li>
+  <li>15 times began to learn playing the guitar, but whithout success((;</li>
+</ul>  
+
+</body>
+</html>
+
+</head>
+ <body>
+  <p align="center">
+    <img src="santa.gif" alt="Gif 1" width="140" height="150">
+    <img src="cat.gif" alt="Gif 2" width="140" height="150">
+    <img src="oyster.gif" alt="Gif 3" width="140" height="150">
+ </p>
+ </body>
+</html>
+
+<html>
+<body>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+</body>
+</html>
+
+<html>
+<body>
+<h3 align="center" style="background-color:Violet;">My last:</h2>
+
+<table align="center" style="width:60%">
+  <tr>
+    <th style="color:Indigo;">Book</th>
+    <th style="color:Indigo;">Film</th>
+    <th style="color:Indigo;">Song</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://loveread.ec/view_global.php?id=16228">"Brody Castle"</a></td>
+    <td align="center"><a href="https://www.netflix.com/ua-ru/title/81161626">"Red notice"</a></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=ffcitRgiNDs&ab_channel=AdeleVEVO">"Easy On Me"</a></td>
+  </tr>
+</table>
+</body>
+</html>
+
+<p></p>
+<p></p>
+
+</div>
+</body>
+</html>
+
+
+
+
+
+
